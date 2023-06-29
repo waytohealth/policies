@@ -17,3 +17,6 @@ plugins:
       lang:
         - en
 
+markdown_extensions:
+    - toc:
+        permalink: "#"      

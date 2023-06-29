@@ -47,7 +47,7 @@ Production systems that create, receive, store, or transmit Customer data (herea
 2. Implement and/or review controls designed to protect Production Data from improper alteration or destruction.
 3. Ensure that confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
 4. Ensure WayToHealth Customer Production Data is segmented and only accessible to Customers authorized to access data.
-5. All Production Data at rest is stored on encrypted volumes using encryption keys managed by WayToHealth. Encryption at rest is ensured through the use of automated deployment scripts referenced in the [Configuration Management Policy](#9-configuration-management-policy).
+5. All Production Data at rest is stored on encrypted volumes using encryption keys managed by WayToHealth. Encryption at rest is ensured through the use of automated deployment scripts referenced in the [Configuration Management Policy](09-configuration_management_policy.md).
 6. Volume encryption keys and machines that generate volume encryption keys are protected from unauthorized access. Volume encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
 7. Encrypted volumes use AES encryption with a minimum of 256-bit keys, or keys and ciphers of equivalent or higher cryptographic strength.
 

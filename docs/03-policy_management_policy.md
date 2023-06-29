@@ -22,7 +22,7 @@ WayToHealth implements policies and procedures to maintain compliance and integr
   2. The Security Officer or the Privacy Officer is assigned to review the policy change request.
   3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. Only the Security Officer and the Privacy Officer are granted the access permissions to merge policy change requests. If the Issue is rejected, it goes back for further review and documentation.
   4. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
-  5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using WayToHealth's [change management process (§9.4)](#9-4-changing-existing-systems).
+  5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using WayToHealth's [change management process (§9.4)](09-configuration_management_policy.md#94-changing-existing-systems).
 4. All policies are made accessible to all WayToHealth workforce members. The current master policies are published at [https://policy.waytohealth.org](https://policy.waytohealth.org).
    * Changes are automatically communicated to all WayToHealth team members through integrations between GitLab and Slack that log all GitLab policy updates to a dedicated WayToHealth Slack Channel.
    * The Security Officer also communicates policy changes to all employees via email. These emails include a high-level description of the policy change using terminology appropriate for the target audience.
@@ -42,4 +42,4 @@ WayToHealth implements policies and procedures to maintain compliance and integr
   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
   6. Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using the TQMS reporting to assess compliance with above policy.
 
-Additional documentation related to maintenance of policies is outlined in [§5.3.1](#5-3-security-officer).
+Additional documentation related to maintenance of policies is outlined in [§5.3.1](05-roles_policy.md#53-security-officer).

@@ -24,12 +24,12 @@ WayToHealth makes every effort to assure all 3rd party organizations are complia
 3. A standard business associate agreement with Customers and Partners is defined and includes the required security controls in accordance with the organization's security policies. Additionally, responsibility is assigned in these agreements.
 4. WayToHealth has Service Level Agreements (SLAs) with Subcontractors with an agreed service arrangement addressing liability, service definitions, security controls, and aspects of services management.
    * Subcontractors must coordinate, manage, and communicate any changes to services provided to WayToHealth.
-   * Changes to 3rd party services are classified as configuration management changes and thus are subject to the policies and procedures described in [§9](#9-configuration-management-policy); substantial changes to services provided by 3rd parties will invoke a Risk Assessment as described in [§4.2](#4-2-risk-management-policies).
+   * Changes to 3rd party services are classified as configuration management changes and thus are subject to the policies and procedures described in [§9](09-configuration_management_policy.md); substantial changes to services provided by 3rd parties will invoke a Risk Assessment as described in [§4.2](04-risk_management_policy.md#42-risk-management-policies).
    * WayToHealth utilizes monitoring tools to regularly evaluate Subcontractors against relevant SLAs.
 5. No WayToHealth Customers or Partners have access outside of their own environment, meaning they cannot access, modify, or delete anything related to other 3rd parties.
 6. WayToHealth does not outsource software development.
 7. WayToHealth maintains and annually reviews a list all current Partners and Subcontractors.
-   * The list of current Partners and Subcontractors is maintained by the WayToHealth Privacy Officer, includes details on all provided services (along with contact information), and is recorded in [§1.1](#1-1-waytohealth-organizational-concepts).
+   * The list of current Partners and Subcontractors is maintained by the WayToHealth Privacy Officer, includes details on all provided services (along with contact information), and is recorded in [§1.1](01-introduction.md#11-waytohealth-organizational-concepts).
    * The annual review of Partners and Subcontractors is conducted as a part of the security, compliance, and SLA review referenced below.
 8. WayToHealth assesses security, compliance, and SLA requirements and considerations with all Partners and Subcontractors. This includes annual assessment of SOC2 reports for all WayToHealth infrastructure partners.
    * WayToHealth leverages recurring calendar invites to assure reviews of all 3rd party services are performed annually. These reviews are performed by the WayToHealth Security Officer and Privacy Officer or designated personnel. The process for reviewing 3rd party services is outlined below:

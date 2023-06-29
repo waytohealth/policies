@@ -59,7 +59,7 @@ The following teams have been developed and trained to respond to a contingency 
 1. The **Engineering Team** is responsible for recovery of the WayToHealth hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of WayToHealth. The team leader is the Engineering Lead and directs the engineering Team.
 2. The **Ops Team** is responsible for assuring all applications are working as intended. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the Product Manager and directs the Ops Team.
 
-Members of the Engineering and Ops teams should ideally maintain local copies of the contact information from [§13.2](#13-2-line-of-succession). 
+Members of the Engineering and Ops teams should ideally maintain local copies of the contact information from [§13.2](13-disaster_recovery_policy.md#132-line-of-succession).
 
 ## 13.4 Testing and Maintenance
 

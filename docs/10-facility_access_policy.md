@@ -2,7 +2,7 @@
 
 WayToHealth works with Subcontractors to assure restriction of physical access to systems used as part of the WayToHealth Platform. WayToHealth and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which WayToHealth workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of WayToHealth facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to WayToHealth's facility.
 
-Of note, WayToHealth does not physically house any systems used by its Platform in WayToHealth facilities. Physical security of our Platform servers is outlined [in §1.1](#1-1-waytohealth-organizational-concepts).
+Of note, WayToHealth does not physically house any systems used by its Platform in WayToHealth facilities. Physical security of our Platform servers is outlined [in §1.1](01-introduction.md#11-waytohealth-organizational-concepts).
 
 ## 10.1 Applicable Standards
 

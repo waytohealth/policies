@@ -21,7 +21,7 @@ WayToHealth standardizes and automates configuration management through the use 
 5. Implementation of approved changes are only performed by authorized personnel.
 6. An up-to-date inventory of systems, including corresponding architecture diagrams for related products and services, is maintained in Confluence pages in the WayToHealth TQMS.
    * All systems are categorized as production, test, staging, and utility to differentiate based on criticality.
-   * These reports are used to generate and / or maintain the diagrams and asset lists required by the Risk Assessment phase of WayToHealth's Risk Management procedures ([§4.3.1](#4-3-risk-management-procedures)).
+   * These reports are used to generate and / or maintain the diagrams and asset lists required by the Risk Assessment phase of WayToHealth's Risk Management procedures ([§4.3.1](04-risk_management_policy.md#43-risk-management-procedures)).
    * On a regular frequency, currently quarterly, the Security Officer or designated personnel will verify the accuracy of the reports by reconciling their output with recent changes to production systems. The Security Officer or designated personnel will address any discrepancies immediately with changes to the scripts.
 7. All frontend functionality (admin dashboards and portals) is separated from backend (database and app servers) systems by being deployed on separate servers or containers.
 8. All software and systems are tested using unit tests and end to end tests.
@@ -36,7 +36,7 @@ WayToHealth standardizes and automates configuration management through the use 
 
 1. Before provisioning any systems, engineering team members must file a request in the WayToHealth TQMS.
    * TQMS access requires authenticated users.
-   * The Engineering Lead grants access to the TQMS following the procedures covered in the [Access Establishment and Modification section](#7-2-access-establishment-and-modification).
+   * The Engineering Lead grants access to the TQMS following the procedures covered in the [Access Establishment and Modification section](07-systems_access_policy.md#72-access-establishment-and-modification).
 2. The Engineering Lead, or an authorized delegate of the Engineering Lead, must approve the provisioning request before any new system can be provisioned.
 3. Once provisioning has been approved, the Infrastructure team member must configure the new system according to the standard baseline chosen for the system's role.
    * For Linux systems, this means adding the appropriate configurations to the Ansible and / or Terraform configuration file.
@@ -63,7 +63,7 @@ WayToHealth standardizes and automates configuration management through the use 
    * Configuring LUKS volumes (where necessary) for providers that do not have native support for encrypted data volumes, including ensuring that encryption keys are protected from unauthorized access.
    * Configuring IDS and antivirus/antimalware agents.
    * Configuring authentication to the centralized LDAP servers.
-   * Configuring audit logging as described in the [Auditing Policy section](#8-auditing-policy).
+   * Configuring audit logging as described in the [Auditing Policy section](08-auditing_policy.md).
 2. Any additional Ansible states applied to the Linux system must be clearly documented by the engineering team member in the request by specifying the purpose of the new system.
 
 ### 9.3.2 Provisioning Management Systems
@@ -119,4 +119,4 @@ WayToHealth standardizes and automates configuration management through the use 
 
 ## 9.7 Software Release Procedures
 
-1. Software releases are treated as changes to existing systems and thus follow the procedure described in [§9.4](#9-4-changing-existing-systems).
+1. Software releases are treated as changes to existing systems and thus follow the procedure described in [§9.4](09-configuration_management_policy.md#94-changing-existing-systems).

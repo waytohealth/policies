@@ -43,8 +43,8 @@ Access to WayToHealth systems and application is limited for all users, includin
   2. The Security Officer or designated personnel will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
   3. Once the review is completed, the Security Officer or designated personnel or Privacy Officer approves or rejects the Ticket. If the Ticket is rejected, it goes back for further review and documentation.
   4. If the review is approved, the Security Officer or designated personnel or Privacy Officer then marks the Ticket as Approved, adding any pertinent notes required. The Security Officer, Privacy Officer, or designated team member then grants requested access and marks the Ticket as Done.
-     * For newly created accounts on core WayToHealth applications, an email will be sent to the user with a link to set an initial secure password that meets all requirements from [§7.12](#7-12-password-management).
-     * On some ancillary systems, an initial temporary password will be generated, which must also meet all requirements from [§7.12](#7-12-password-management) and must also be changed on the first login. All such password exchanges must occur over an authenticated channel.
+     * For newly created accounts on core WayToHealth applications, an email will be sent to the user with a link to set an initial secure password that meets all requirements from [§7.12](07-systems_access_policy.md#712-password-management).
+     * On some ancillary systems, an initial temporary password will be generated, which must also meet all requirements from [§7.12](07-systems_access_policy.md#712-password-management) and must also be changed on the first login. All such password exchanges must occur over an authenticated channel.
 2. Access is not granted until review and approval by the WayToHealth Security Officer or Privacy Officer.
 3. The request for access is retained for future reference.
 4. All access to WayToHealth systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
@@ -54,7 +54,7 @@ Access to WayToHealth systems and application is limited for all users, includin
    4. Once the review is completed, the Security Officer or designated personnel approves or rejects the Ticket. If the Ticket is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security Officer or designated personnel then marks the Ticket as Done, adding any pertinent notes required.
    6. Review of user access is monitored on a quarterly basis using the TQMS reporting to assess compliance with above policy.
-5. Any WayToHealth workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#7-2-access-establishment-and-modification).
+5. Any WayToHealth workforce member can request change of access using the process outlined in [§7.2 paragraph 1](07-systems_access_policy.md#72-access-establishment-and-modification).
 6. Access to production systems is controlled using centralized user management and authentication.
 7. Account management and access:
    * Temporary accounts are not used unless absolutely necessary for business purposes.
@@ -66,7 +66,7 @@ Access to WayToHealth systems and application is limited for all users, includin
 8. In the case of non-personal information, such as generic educational content, identification and authentication may not be required. This is the responsibility of WayToHealth Customers to define, and not WayToHealth.
 9. Privileged users must first access systems using standard, unique user accounts before switching to privileged users and performing privileged tasks.
    * For production systems, this is enforced by creating non-privileged user accounts that must invoke `sudo` to perform privileged tasks.
-   * Rights for privileged accounts are granted by the Security Officer or designated personnel or Privacy Officer using the process outlined in [§7.2 paragraph 1](#7-2-access-establishment-and-modification).
+   * Rights for privileged accounts are granted by the Security Officer or designated personnel or Privacy Officer using the process outlined in [§7.2 paragraph 1](07-systems_access_policy.md#72-access-establishment-and-modification).
 10. All application to application communication using service accounts is restricted and not permitted unless absolutely needed. 
 11. Generic accounts are not allowed on WayToHealth systems.
 12. Server access is granted through encrypted, VPN tunnels that utilize two-factor authentication.
@@ -85,7 +85,7 @@ Access to WayToHealth systems and application is limited for all users, includin
      * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
      * No access outside of the minimum necessary to perform job functions will be provided.
 2. Once access has been granted to the project PM, s/he will invite other members necessary to accomplish their project objectives as needed via the user interface provided. Invites require names, email addresses and roles at the very minimum. The verification of names and email addresses are the PM's responsibility and is not verified by WayToHealth.
-3. Customer personnel, once invited, will be required to set their username and password that meets all requirements from [§7.12](#7-12-password-management).
+3. Customer personnel, once invited, will be required to set their username and password that meets all requirements from [§7.12](07-systems_access_policy.md#712-password-management).
 4. Customer personnel are required to follow their organization's HIPAA and other privacy policies. 
 5. Customer personnel are required to sign a [Data Security Agreement](https://atlas.waytohealth.upenn.edu/confluence/download/attachments/13664604/Data%20Security%20Agreement%20Way%20to%20Health.pdf) before getting access to the application.
 6. Generic and temporary accounts are not allowed on WayToHealth systems.
@@ -185,10 +185,10 @@ WayToHealth does not use paper records for any sensitive information. Use of pap
    * account lockout after 5 invalid attempts.
 5. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
-   * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17-8-production-data-security).
-   * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](#17-9-transmission-security).
+   * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](17-data_integrity_policy.md#178-production-data-security).
+   * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](17-data_integrity_policy.md#179-transmission-security).
 6. Each information system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
-7. Passwords are deactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](#7-10-employee-termination-procedures)).
+7. Passwords are deactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](07-systems_access_policy.md#710-employee-termination-procedures)).
 8. There are no default system or application passwords.
 9. Passwords are not auto-generated for users. Users must set their passwords when invited following the complexity rules defined above.
 10. Password change methods must use a confirmation method to correct for user input errors such as matching entries.

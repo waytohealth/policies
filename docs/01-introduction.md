@@ -10,7 +10,7 @@ WayToHealth does not act as a covered entity but rather as a provider of service
 
 Certain aspects of compliance cannot be inherited. Because of this, WayToHealth, in order to achieve full compliance or HITRUST Certification, has implemented certain organizational policies. 
 
-Mappings of HIPAA Rules to WayToHealth controls are covered in [§2](#2-hipaa-inheritance).
+Mappings of HIPAA Rules to WayToHealth controls are covered in [§2](02-hipaa_inheritance.md).
 
 ## 1.1 WayToHealth Organizational Concepts
 
