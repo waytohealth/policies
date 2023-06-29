@@ -56,7 +56,7 @@ WayToHealth is committed to ensuring all workforce members actively address secu
 
 WayToHealth workforce members are to escalate issues as described in HIPAA training. 
 
-Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](11-incident_response_policy.md#112-incident-management-policies). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](12-breach_policy.md/#122-waytohealth-breach-policy). Refer to [§11.2](11-incident_response_policy.md#112-incident-management-policies) for a list of sample items that can trigger WayToHealth's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.
+Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](11-incident_response_policy.md#112-incident-management-policies). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](12-breach_policy.md#122-waytohealth-breach-policy). Refer to [§11.2](11-incident_response_policy.md#112-incident-management-policies) for a list of sample items that can trigger WayToHealth's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.
 
 It is the duty of that owner to follow the process outlined below:
 

@@ -87,7 +87,7 @@ Access to WayToHealth systems and application is limited for all users, includin
 2. Once access has been granted to the project PM, s/he will invite other members necessary to accomplish their project objectives as needed via the user interface provided. Invites require names, email addresses and roles at the very minimum. The verification of names and email addresses are the PM's responsibility and is not verified by WayToHealth.
 3. Customer personnel, once invited, will be required to set their username and password that meets all requirements from [§7.12](07-systems_access_policy.md#712-password-management).
 4. Customer personnel are required to follow their organization's HIPAA and other privacy policies. 
-5. Customer personnel are required to sign a [Data Security Agreement](https://atlas.waytohealth.upenn.edu/confluence/download/attachments/13664604/Data%20Security%20Agreement%20Way%20to%20Health.pdf) before getting access to the application.
+5. Customer personnel are required to sign a Data Security Agreement before getting access to the application.
 6. Generic and temporary accounts are not allowed on WayToHealth systems.
 7. Personnel who have not accessed the system in more than three (3) months will have their accounts terminated.
 8. PMs will be required to actively review the personnel with access to their programs on a quarterly basis.

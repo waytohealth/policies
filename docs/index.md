@@ -10,6 +10,6 @@ Certain aspects of compliance cannot be inherited. Because of this, WayToHealth,
 
 Mappings of HIPAA Rules to WayToHealth controls are covered in [§2](02-hipaa_inheritance.md).
 
-These policies are based on the open source policies published by Datica Inc. [here](https://github.com/catalyzeio/policies) and modified significantly to incorporate policies and procedures at Penn Medicine and Way To Health. 
+These policies are based on the open source policies originally published by Datica Inc. and modified significantly to incorporate policies and procedures at Penn Medicine and Way To Health. 
 
-**This policy was last updated on June 28, 2023**
+**This policy was last updated on June 29, 2023**

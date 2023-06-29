@@ -29,7 +29,7 @@ WayToHealth standardizes and automates configuration management through the use 
 10. WayToHealth utilizes test (development) and staging environments that mirror production to assure proper function.
 11. WayToHealth also deploys environments locally to assure functionality before moving to staging or production.
 12. All change requests must be formally filed and authorized before implementation.
-13. WayToHealth uses the [Security Technical Implementation Guides (STIGs)](http://iase.disa.mil/stigs/) published by the Defense Information Systems Agency as a baseline for hardening systems.
+13. WayToHealth uses the [Security Technical Implementation Guides (STIGs)](https://public.cyber.mil/stigs/) published by the Defense Information Systems Agency as a baseline for hardening systems.
 14. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
 
 ## 9.3 Provisioning Production Systems
