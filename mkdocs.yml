@@ -1,8 +1,5 @@
-# Project information
 site_name: Way To Health Compliance Policy Documentation
 site_url: https://policy.waytohealth.org
-
-# Configuration
 theme: 
   name: material
   logo: img/logo.png
@@ -12,11 +9,4 @@ theme:
     - search.highlight
     - navigation.top
 plugins:
-  - search:
-      separator: '[\s\-\.]+'
-      lang:
-        - en
-
-markdown_extensions:
-    - toc:
-        permalink: "#"      
+  - search

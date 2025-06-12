@@ -1,6 +1,6 @@
 # 19. Employees Policy
 
-WayToHealth is committed to ensuring all workforce members actively address security and compliance in their roles at WayToHealth. As such, training is imperative to assuring an understanding of current best practices, the different types and sensitivities of data, and the sanctions associated with non-compliance.
+W2H is committed to ensuring all workforce members actively address security and compliance in their roles at W2H. As such, training is imperative to assuring an understanding of current best practices, the different types and sensitivities of data, and the sanctions associated with non-compliance.
 
 ## 19.1 Applicable Standards
 
@@ -30,38 +30,25 @@ WayToHealth is committed to ensuring all workforce members actively address secu
 
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
-   * Current WayToHealth training is offered via UPHS or the University Of Pennsylvania employee training services. 
+   * Current W2H training is offered via Penn Medicine or the University Of Pennsylvania employee training services. 
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
-3. The UPHS or the University Of Pennsylvania Employee policies clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
+3. The Penn Medicine or the University Of Pennsylvania Employee policies clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
    * The Human Resources department will emphasize secure and confidential information handling policies when introducing new individuals to Penn Medicine / School of Medicine. A copy of the Information Security policies will be made available to all new workforce members. 
    * Workforce members will acknowledge in writing that they understand their responsibilities as stated in the policies.  
-4. WayToHealth does not allow mobile devices to connect to any of its production networks.
+4. W2H does not allow mobile devices to connect to any of its production networks.
 5. All workforce members are educated about the approved set of tools to be installed on workstations.
-6. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for WayToHealth and its Customers and Partners.
+6. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for W2H and its Customers and Partners.
 7. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.
-8. Employees may only use UPHS or the University of Pennsylvania-purchased and -owned workstations for accessing production systems with access to ePHI data.
-   * Any workstations used to access production systems must be configured as prescribed in [§7.8](07-systems_access_policy.md#78-employee-workstation-use).
-   * Any workstations used to access production systems must have virus protection software installed, configured, and enabled.
-   * WayToHealth may monitor access and activities of all users on workstations and production systems in order to meet auditing policy requirements ([§8](08-auditing_policy.md)).
-9. Access to internal WayToHealth systems can be requested using the procedures outlined in [§7.2](07-systems_access_policy.md#72-access-establishment-and-modification). All requests for access must be granted by the WayToHealth Security Officer or designated personnel.
-10. Request for modifications of access for any WayToHealth employee can be made using the procedures outlined in [§7.2](07-systems_access_policy.md#72-access-establishment-and-modification).
-11. WayToHealth employees are **strictly forbidden** from downloading any ePHI to their workstations.
-    * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](05-roles_policy.md#53-security-officer).
-12. Employees are required to cooperate with federal and state investigations.
-    * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
-    * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](05-roles_policy.md#53-security-officer).
+8. Employees may only use Penn Medicine or the University of Pennsylvania-purchased and -owned workstations for accessing production systems with access to ePHI data.
+   * Any workstations used to access production systems must be configured as prescribed in [§7.8](./07-systems_access_policy.md#78-employee-workstation-use).
+   * PMACS monitors access and activities of all users on workstations and production systems in order to meet auditing policy requirements ([§8](./08-auditing_policy.md)) using JAMF tools.
+9. Access to internal W2H systems can be requested using the procedures outlined in [§7.2](./07-systems_access_policy.md#72-access-establishment-and-modification). All requests for access must be granted by the W2H Security Officer or designated personnel.
+10. Request for modifications of access for any W2H employee can be made using the procedures outlined in [§7.2](./07-systems_access_policy.md#72-access-establishment-and-modification).
+11. Employees are required to cooperate with federal and state investigations following Penn Medicine guidelines.
 
 ## 19.4 Issue Escalation
 
-WayToHealth workforce members are to escalate issues as described in HIPAA training. 
+W2H workforce members are to escalate issues as described in HIPAA training. 
 
-Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](11-incident_response_policy.md#112-incident-management-policies). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](12-breach_policy.md#122-waytohealth-breach-policy). Refer to [§11.2](11-incident_response_policy.md#112-incident-management-policies) for a list of sample items that can trigger WayToHealth's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.
-
-It is the duty of that owner to follow the process outlined below:
-
-1. Create an Ticket in the WayToHealth TQMS.
-2. The Ticket is investigated, documented, and, when a conclusion or remediation is reached, it is moved to Review.
-3. The Ticket is reviewed by designated personnel. If the Ticket is rejected, it goes back for further evaluation and review.
-4. If the Ticket is approved, it is marked as Done, adding any pertinent notes required.
-5. The workforce member that initiated the process is notified of the outcome via email.
+Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](./11-incident_response_policy.md). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](./12-breach_policy.md). Refer to [§11.2](./11-incident_response_policy.md#112-incident-management-policies) for a list of sample items that can trigger W2H's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.

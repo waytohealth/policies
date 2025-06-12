@@ -1,10 +1,10 @@
 # 6. Data Management Policy
 
-WayToHealth has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) utilizing our Backup Service. This policy, and associated procedures for testing and restoring from backup data apply generally to all WayToHealth Customers excepting those Customers that do not choose or opt-out of the WayToHealth Backup Service. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all Customers using WayToHealth.
+W2H has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) utilizing our Backup Service. This policy, and associated procedures for testing and restoring from backup data apply generally to all W2H Customers excepting those Customers that do not choose or opt-out of the W2H Backup Service. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all Customers using W2H.
 
-Data backup is an important part of the day-to-day operations of WayToHealth. To protect the confidentiality, integrity, and availability of ePHI, both for WayToHealth and WayToHealth Customers, complete backups are done daily to assure that data remains available when it is needed and in case of a disaster.
+Data backup is an important part of the day-to-day operations of W2H. To protect the confidentiality, integrity, and availability of ePHI, both for W2H and W2H Customers, complete backups are done daily to assure that data remains available when it is needed and in case of a disaster.
 
-Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment per UPHS policies.
+Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment per Penn Medicine policies.
 
 ## 6.1 Applicable Standards
 
@@ -20,8 +20,8 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## 6.2 Backup Policy and Procedures
 
-1. Perform daily (snapshot / logical or binary dump) backups of all systems that process, store, or transmit ePHI for WayToHealth Customers.
-2. The WayToHealth Dev and Infrastructure Team is designated to be in charge of backups.
+1. Perform daily (snapshot / logical or binary dump) backups of all systems that process, store, or transmit ePHI for W2H Customers.
+2. The W2H Dev and Infrastructure Team is designated to be in charge of backups.
 3. Dev and Infrastructure Team members are trained and assigned to complete backups and manage the backup media.
 4. Document backups (automated as supported by the underlying hosting provider)
    * Name of the system

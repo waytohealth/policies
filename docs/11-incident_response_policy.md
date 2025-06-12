@@ -1,6 +1,6 @@
 # 11. Incident Response Policy
 
-WayToHealth implements an information security incident response process to consistently detect, respond, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.
+W2H implements an information security incident response process to consistently detect, respond, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.
 
 The incident response process addresses:
 
@@ -27,14 +27,14 @@ The incident response process addresses:
 
 ## 11.2 Incident Management Policies
 
-The WayToHealth incident response process follows the processes defined by Penn Medicine. This is based on the policy updated as of 5/31/2016 (ISD-SEC-10). These are defined as follows. 
+The W2H incident response process follows the processes defined by Penn Medicine. This is based on the policy updated as of 5/31/2016 (ISD-SEC-10). These are defined as follows. 
 
 ### 11.2.1 Summary
 
-Penn Medicine must ensure the effective response to and management of security events that may compromise the confidentiality, integrity or availability of confidential data or other Penn Medicine assets. This document, the Security Incident Response Policy (or “Policy”) outlines the governance and procedures to define, address, and report on incident response activities.
+Penn Medicine must ensure the effective response to and management of security events that may compromise the confidentiality, integrity or availability of confidential data or other Penn Medicine assets. That document, the Security Incident Response Policy (or “Policy”) outlines the governance and procedures to define, address, and report on incident response activities.
 
 ### 11.2.1.1 Purpose
-The purpose of this Policy is to direct individuals and offices in responding to security incidents in a structured, efficient, and compliant manner.
+The purpose of that Policy is to direct individuals and offices in responding to security incidents in a structured, efficient, and compliant manner.
 
 ### 11.2.1.2 Scope
 This Policy applies to all members of the workforce of Penn Medicine and all Security Incidents, as defined below. This Policy is owned by and resides with the Penn Medicine Corporate Information Services (IS). This Policy also involves significant participation by the Offices of Information Security, Privacy, General Counsel, and other areas of Penn Medicine as needed. This Policy should be reviewed and updated periodically, informed by experience addressing data security incidents and tabletop exercises.
@@ -48,7 +48,7 @@ IS is responsible for the operation of Penn Medicine's data networks as well as 
 ## 11.2.2 Procedure
 
   * 1. Reporting Security Incidents
-    * 1.1. Workforce members who suspect a security incident has taken place are required by policy to notify the Office of Information Security (“OIS”). See UPHS Information Security Incident Reporting Policy.
+    * 1.1. Workforce members who suspect a security incident has taken place are required by policy to notify the Office of Information Security (“OIS”). 
     * 1.2. Upon such notification, OIS is responsible for:
       * 1.2.1. Establishing an Incident Response Team when, based on the level of risk, that a Team-based approach would be warranted to address such risk. See Section 2.
       * 1.2.2. Following Incident Handling Procedures as appropriate. See Section 3.
@@ -75,13 +75,13 @@ IS is responsible for the operation of Penn Medicine's data networks as well as 
     * 3.9. Restore Availability. Once the above steps have been taken, and upon authorization by the Immediate Response Team, the availability of affected devices or networks may be restored.
     * 3.10. Penn Medicine-Wide Learning. The Immediate Response Team shall develop and arrange for implementation of a communications plan to spread learning from the security incident throughout Penn Medicine to individuals best able to reduce risk of recurrence of such incident. This Penn Medicine-wide learning must utilize solely de-identified PHI in order to avoid a possible breach.
 
-4. Breach Analysis and Response
+1. Breach Analysis and Response
 4.1 When PHI has been vulnerable or exposed, the PMPO shall, based on information gathered by the Incident Response Team, conduct an analysis of whether a “breach” as defined by HIPAA has occurred.
 4.2 If a breach has occurred, the PMPO – in consultation with Entity Privacy Officers, the Office of General Counsel, and Human Resources as appropriate – will develop and implement a plan to notify the patient(s) affected within 60 days, consistent with requirements under HIPAA.
 4.3 If a breach has occurred and the number of individuals affected is greater than 500, the PMPO is responsible for ensuring appropriate notification to HHS, the media, and the data subjects within 60 days, consistent with requirements under HIPAA.
 4.4 At the latest, by the close of February of any calendar year, PMPO is responsible for reporting to HHS any breaches that have occurred in the prior calendar year.
 4.5 All security incidents involving PHI or other Confidential Data, regardless of whether they qualify as a “breach” under HIPAA, must be logged in the Navex system maintained by OACP, or any successor system.
-5. Senior Response Team
+1. Senior Response Team
 The Senior Response Team (SRT) consists of The Associate Vice President for Audit, Compliance and Privacy, the Penn Medicine General Counsel, the Penn Medicine Chief Information Officer and Vice President, and the Senior Vice President for Communications.
 The SRT can be convened by any member of the Senior Response Team when requested. Ordinarily, this will be in cases of incidents or breaches with significant impact to the individuals or the organization.
 The SRT will be charged with the responsibility to (1) determine whether additional briefing of leadership is warranted (2) guide and oversee investigations, required notifications, and other material responses to the security incident.
