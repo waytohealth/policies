@@ -58,9 +58,9 @@ Access to W2H systems and application is limited for all users, including but no
 6. Access to production systems is controlled using centralized user management and authentication.
 7. Account management and access:
    * Temporary accounts are not used unless absolutely necessary for business purposes.
-   * Accounts are reviewed every 90 days to ensure temporary accounts are not left unnecessarily active.
-   * Accounts that are inactive for over 90 days are disabled.
-   * User accounts on systems containing highly sensitive or confidential data that have not been accessed for ninety (90) days will be disabled.
+   * Accounts are automatically reviewed every 180 days to ensure temporary accounts are not left unnecessarily active.
+   * Accounts that are inactive for over 180 days are disabled.
+   * User accounts on systems containing highly sensitive or confidential data that have not been accessed for six months (180 days) will be disabled.
    * Privileged users (e.g., system administrators) must have their access rights reviewed at least two (2) times per year by the Information Owner to ensure access to Penn Medicine/SOM information is appropriate.
    * Users with access to privileged accounts must use their non-privileged user account to log into the system. These users must take care to only log into their privileged accounts when necessary, and only for the duration required to complete the task requiring privileged access.
 8. In the case of non-personal information, such as generic educational content, identification and authentication may not be required. This is the responsibility of W2H Customers to define, and not W2H.

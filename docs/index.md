@@ -11,4 +11,4 @@ Certain aspects of compliance cannot be inherited. Because of this, W2H, in orde
 Mappings of HIPAA Rules to W2H controls are covered in [§2](./02-hipaa_inheritance.md).
 
 
-**This policy was last updated on June 11, 2025**
+**This policy was last updated on May 15, 2026**
